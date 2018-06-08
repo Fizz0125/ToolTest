@@ -1,0 +1,19 @@
+{
+    "name": "fizz/wechat",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liyifeng",
+            "email": "384339392@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Tool\\": "Tool/"
+        }
+    }
+}
